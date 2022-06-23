@@ -1,0 +1,15 @@
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/bin/Debug/net6.0/1 Задание
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/bin/Debug/net6.0/1 Задание.deps.json
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/bin/Debug/net6.0/1 Задание.runtimeconfig.json
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/bin/Debug/net6.0/1 Задание.dll
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/bin/Debug/net6.0/1 Задание.pdb
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/1 Задание.csproj.AssemblyReference.cache
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/1 Задание.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/1 Задание.AssemblyInfoInputs.cache
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/1 Задание.AssemblyInfo.cs
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/1 Задание.csproj.CoreCompileInputs.cache
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/1 Задание.dll
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/refint/1 Задание.dll
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/1 Задание.pdb
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/1 Задание.genruntimeconfig.cache
+/Users/vladimir/Desktop/GeekBrains/Курс Разработчик/Знакомство с C#/Семинар 1/1 Занятие/1 Задание/obj/Debug/net6.0/ref/1 Задание.dll
