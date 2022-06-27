@@ -12,14 +12,31 @@
 // 5 -> Пятница
 // 10 мин
 
-// int a = 2;
-// int b = 10;
-// int square = (b*b);
-// if (square == a)
+int a = 2;
+int b = 10;
+int square = (b * b);
+if (square == a)
+{
+    Console.WriteLine($"b является квадратом a");
+}
+else
+{
+    Console.WriteLine($"b не является квадратом a");
+}
+
+//belov.max7@yandex.ru надо будет и нашу первую переделать
+
+// Console.Write("Введите число: ");
+// int num = Convert.ToInt32(Console.ReadLine());
+// switch (num)
 // {
-//     Console.WriteLine($"b является квадратом a");
+//     case 1: Console.WriteLine("Понедельник"); break;
+//     case 2: Console.WriteLine("Вторник"); break;
+//     case 3: Console.WriteLine("Среда"); break;
+//     case 4: Console.WriteLine("Четверг"); break;
+//     case 5: Console.WriteLine("Пятница"); break;
+//     case 6: Console.WriteLine("Суббота"); break;
+//     case 7: Console.WriteLine("Воскресенье"); break;
+//     default: Console.WriteLine("Нет такого дня недели"); break;
 // }
-// else
-// {
-//     Console.WriteLine($"b не является квадратом a");
-// }
+// // Console.ReadKey();
