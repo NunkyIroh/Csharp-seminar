@@ -21,3 +21,5 @@ else if (num2 * num2 == num1)
     Console.WriteLine("Да");
 }
 else Console.WriteLine($"Нет");
+
+// if (num1 * num1 == num2 || num2 * num2 == num1) Console.WriteLine("Да");
