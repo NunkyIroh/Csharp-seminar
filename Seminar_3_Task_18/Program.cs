@@ -8,14 +8,14 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 string Quarter(int number)
 {
-    if (number ==1) return "x - положительный, y - положительный";
-    if (number ==2) return "x - отрицательный, y - положительный";
-    if (number ==3) return "x - отрицательный, y - отрицательный";
-    if (number ==4) return "x - положительный, y - отрицательный";
+    if (number == 1) return "x - положительный, y - положительный";
+    if (number == 2) return "x - отрицательный, y - положительный";
+    if (number == 3) return "x - отрицательный, y - отрицательный";
+    if (number == 4) return "x - положительный, y - отрицательный";
     return "Введены некорректные данные!";
 }
 
-string result = Quarter (num);
+string result = Quarter(num);
 Console.WriteLine(result);
 
 // Console.WriteLine("Введите номер четверти от 1 до 4");
