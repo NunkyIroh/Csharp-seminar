@@ -25,5 +25,22 @@ string Quarter(int xc, int yc)
     return "Введены некорректные данные!";
 }
 
+// string Quarter(int x, int y)
+// {
+//     switch ((x, y))
+//     {
+//         case ( > 0, > 0):
+//             return "Первая четверь";
+//         case ( < 0, > 0):
+//             return "Вторая четверь";
+//         case ( < 0, < 0):
+//             return "Третья четверь";
+//         case ( > 0, < 0):
+//             return "Четвёртая четверь";
+//         default:
+//             return "Введены некорректные координаты";
+//     }
+// }
+
 string result = Quarter (x, y);
 Console.WriteLine(result);
