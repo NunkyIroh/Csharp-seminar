@@ -10,9 +10,9 @@ int num = int.Parse(Console.ReadLine());
 void NaturalNumber (int number)
 {
     if(number == 0) return;
-    // Console.Write($"{number} "); если надо запасать наоборот
+    // Console.Write($"{number} ");  если надо запасать наоборот
     NaturalNumber(number - 1);
     Console.Write($"{number} ");
 }
 
-NaturalNumber(num);
+NaturalNumber(num); 
